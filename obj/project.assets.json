@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\taylo\\Desktop\\BYUI\\Winter 23\\CSE212\\Prove\\final-project-atk21009\\C# Files\\Problems\\TreeProblemTemplate\\TreeProblemTemplate.csproj",
+      "projectUniqueName": "C:\\Users\\taylo\\Desktop\\BYUI\\Winter 23\\CSE212\\Prove\\final-project-atk21009\\C# Files\\ProblemTemplates\\TreeProblemTemplate\\TreeProblemTemplate.csproj",
       "projectName": "TreeProblemTemplate",
-      "projectPath": "C:\\Users\\taylo\\Desktop\\BYUI\\Winter 23\\CSE212\\Prove\\final-project-atk21009\\C# Files\\Problems\\TreeProblemTemplate\\TreeProblemTemplate.csproj",
+      "projectPath": "C:\\Users\\taylo\\Desktop\\BYUI\\Winter 23\\CSE212\\Prove\\final-project-atk21009\\C# Files\\ProblemTemplates\\TreeProblemTemplate\\TreeProblemTemplate.csproj",
       "packagesPath": "C:\\Users\\taylo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\taylo\\Desktop\\BYUI\\Winter 23\\CSE212\\Prove\\final-project-atk21009\\C# Files\\Problems\\TreeProblemTemplate\\obj\\",
+      "outputPath": "C:\\Users\\taylo\\Desktop\\BYUI\\Winter 23\\CSE212\\Prove\\final-project-atk21009\\C# Files\\ProblemTemplates\\TreeProblemTemplate\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\taylo\\AppData\\Roaming\\NuGet\\NuGet.Config",
